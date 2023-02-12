@@ -1,0 +1,23 @@
+{
+  "name": "Nomard-TypeChain",
+  "version": "1.0.0",
+  "description": "노마드코더(NomardCoders) 클론코딩 과정 (TypeScript)",
+
+  "scripts": {
+  "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nooooooob12/Clone-CodingTypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nooooooob12/Clone-CodingTypeScript/issues"
+  },
+  "homepage": "https://github.com/nooooooob12/Clone-CodingTypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
