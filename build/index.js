@@ -1,3 +1,2 @@
-export {};
-//타입스크립트는 init을 불러왔지만, 전혀 알지 못함. 그래서 사용하더라도 어떠한 보호도 제공하지 않음.
-//그렇기 떄문에, config.json으로 돌아가 이 문제에 대해 해결할것임
+import { init } from './myPackage';
+init();
